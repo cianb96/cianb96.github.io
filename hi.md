@@ -1,6 +1,6 @@
 layout: page
 title: "Testing"
-permalink: /hi.md
+permalink: /hi
 
 # My title
 this works?
