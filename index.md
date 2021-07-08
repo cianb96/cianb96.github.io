@@ -1,8 +1,9 @@
+<title>Portfolio of Cian Brassinne</title>
 # Portfolio
 
 Intro ladida
 
-LinkedIn: (linkedin.com/in/cianb)
+LinkedIn: <linkedin.com/in/cianb>
 
 # Contents
 
