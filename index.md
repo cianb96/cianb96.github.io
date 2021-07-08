@@ -1,6 +1,8 @@
-linkedin.com/in/cianb
-
 # Portfolio
+
+Intro ladida
+
+LinkedIn: (linkedin.com/in/cianb)
 
 # Contents
 
