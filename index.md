@@ -2,8 +2,7 @@
 
 Intro 
 
-LinkedIn: <https://linkedin.com/in/cianb>
-<a href="https://linkedin.com/in/cianb" target="_blank">Hello, world!</a>
+LinkedIn: <a href="https://linkedin.com/in/cianb" target="_blank">Hello, world!</a>linkedin.com/in/cianb></a>
 
 # Contents
 
